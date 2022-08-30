@@ -25,7 +25,7 @@ export default function Home() {
         <video
           autoPlay
           muted
-          loop="true"
+          loop
           src="/desktop.mp4"
           className="w-screen h-screen "
         ></video>
